@@ -27,17 +27,18 @@ At the initial stage of the Data Cleaning and Preparation, I performed the follo
 7. Helping Columns Created
 
  ### Exploratory Data Analysis
-   This Exploratory Data Analysis (EDA) report aims to provide an in-depth examination of The Amazon product review Dataset to understand sales trend, customer engagement and characteristic of the data
-   
+This Exploratory Data Analysis (EDA) report aims to provide an in-depth examination of The Banking Dataset to understand the loan approval patterns, relationships, and characteristic of the data
+
 #### Key Performance Indicators (KPIs)
 
 Performance based on key metrics:
--	Total Customer: The total count of applicants is 1194
--	Total Categories: The total categories is 210
--	Average Rating: The average rating is 4.10
--	Total Price:  The total price is $7.98 Million  
--	Total Discount: The Total discount is $4.58 Million 
--	Total Revenue: the total revenue of $121 Billion
+-	Total Customer: we have the total count of applicant as 5000
+-	Total Transaction Amount (Month): The bank recorded total transaction amount of $12. 54Million.
+-	Total Loan Amount (Month): The bank issued total loan of $127.51 Million.
+-	Late Payments (Month):  The percentage of late payment this month is 49.48%  
+-	Total Credit (Month): The Total credit this month is $27.75 million 
+-	Feedback Performance: the total rate of feedback received is -0.03
+
 
 ### Analysis:  <a href="https://github.com/Hidaayah-7/DSA-_EXCEL_PROJECT/blob/main/Amazon%20%20study.xlsx">[View Here]</a>
 
