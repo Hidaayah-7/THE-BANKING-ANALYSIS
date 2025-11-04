@@ -6,11 +6,11 @@ A data driven view of banking activity and customer’s engagement
 This report presents a comprehensive, data-driven analysis of banking activity, customer behavior, and loan performance using data provided by The Data Immersed (TDI) warehouse. Using Power BI for data preparation, transformation, and visualization, the objective is to uncover patterns and generate actionable insights to support strategic decisions. The focus lies on understanding customer demographics, loan approval trends, credit utilization behavior, and identifying areas for operational improvement.
 
 ### Data Source:
-A CSV File gotten from Digital Skill Africa Warehouse
-- <a href="https://github.com/Hidaayah-7/DSA-_EXCEL_PROJECT/blob/main/amazon%20duplicate.xlsx">Dataset</a>
+A CSV File gotten from The Data Immersed (TDI) Warehouse
+- <a href="https://github.com/Hidaayah-7/THE-BANKING-ANALYSIS/blob/main/Comprehensive_Banking_Database%20cleaned.xlsx">Dataset</a>
 
 ### Tool Used
-Ms Excel 
+Microsoft Power BI 
 - for Data Collection 
 - for Data Cleaning and Preparation
 - Analysis
