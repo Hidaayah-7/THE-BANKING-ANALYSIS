@@ -40,7 +40,7 @@ Performance based on key metrics:
 -	Feedback Performance: the total rate of feedback received is -0.03
 
 
-### Analysis:  <a href="https://github.com/Hidaayah-7/THE-BANKING-ANALYSIS/commit/e5bc36baeb1de03b53eaa3a969768dabf846bcbd">[View Here]</a>
+### Analysis:  <a href="https://github.com/Hidaayah-7/THE-BANKING-ANALYSIS/blob/main/The%20Midas%20Bank%20analysis%20Project.pbix">[View Here]</a>
 
 
 
