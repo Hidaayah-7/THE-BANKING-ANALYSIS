@@ -46,60 +46,53 @@ Performance based on key metrics:
 
 ### Dashboard
 
-![Banking Report](https://github.com/user-attachments/assets/1fe0da80-90ae-4180-8f93-df04e4f15861)
+![Banking Report](https://github.com/Hidaayah-7/THE-BANKING-ANALYSIS/blob/main/midas%20dashboard.png)
+
+
+### CUSTOMER ANALYSIS REPORT:
+
+- Top 12 Customer Loan and Due Payment History
+  
+	Daniel Hernandez is the customer with the highest loan amount of $49,980.2 having an on-time payment history, followed by Elizabeth Carter with the loan of $49,985.82 having an on-time payment history and lastly Steve Torres with the loan amount of $49,915.49 having a late payment history.
+The data shows the correlation between the loan due date and the date the loan was paid.
+
+
+- Customer Distribution by gender
+  
+Male amount to 32.68%
+Female has the total of 34.54%
+Other has 32.78%
+There is an even distribution across all genders
 
 
 
+- Customer’s Loan Type and Loan Status
 
-![ANAZON 2](https://github.com/user-attachments/assets/fd10436c-6041-4dc1-9fe5-512244bf913a)
-
-
-
-
-### CATEGORY VIEW INSIGHTS
-
-- Top Revenue Generating Categories
-
- Smartphones $39M, Smart Televisions $26M and Smart Watches $13M
-
- These are the categories that Dominate revenue, accounting for the bulk of total sales.
+Approved and closed for mortgage has the highest count of 591 and 592 respectively, followed by approved and rejected for persona with the count of 553 and 576 respectively and lastly approved and closed of auto having the count of 566 and 554 respectively.
 
 
-- Average Discount % by Category
 
- Highest 0.9 (Computers & Accessories, Electronics) and Lowest 0.82 (Shower & Wall Mounts)
-
- High discounts are clustered around tech categories, driving volume sales.
-
-
-- Product Category with Highest Discount
-
- Wearable Tech 0.70 and Smartwatches 0.59
-
- Wearable tech has the highest discount among all, but it doesn’t top revenue or reviews.
+- Top 5 Cities with Highest Approval Rate
+  
+  Denver has the highest loan approval rate and loan amount of (0.40 and $3.6 million), followed by Washington (0.42 and $3.1 million), Memphis (0.40 and $3.3 million), New York (0.40 and $3.1 million), and Kansas City (0.40 and $2.9 million). This concentration suggests these regions have a strong demand for loans or effective marketing efforts targeting these areas.
 
 
-### PRODUCT VIEW INSIGHTS
 
-- Top Products by Average Rating (5.0 stars)
+### Loan Analysis Report:
 
- Syncwire LTG to USB Cable, REDTECH USB-C to HDMI Cable, and Amazon Basics USB Extension
+- Credit Utilization by loan status
+Low credit card utilization has the highest loan status while high credit card utilization has the least, which denotes a good financial management.
+ 
 
- Simple, affordable tech accessories are hitting perfect review scores
+- Loan Application Status
+
+Total loan application of 5000 was received, 1710 was approved, 1630 was rejected and 1660 was closed.
+
+- Loan Approval Trend across the Months
+
+ The highest loan approval was recorded in March (0.367) while the lowest loan approval was recorded in May (0.324), there is a fall in a wave-like pattern indicating a repeating cycle every few months.
 
 
-- Product with Discount > 50%
-
- VU 138 cm 4K TV $30K and ECOVACS DEEBOT Vacuum Cleaner $28K
-
- Premium electronics and appliances are being sold at steep discounts.
-
-
-- Rating by Price Bucket
-
- $1,001–$5,000 bucketHighest product count (575)
-
- Most products fall into this mid-price range.
 
 
 ### METRICS OBSERVATION
