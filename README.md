@@ -56,7 +56,7 @@ Performance based on key metrics:
 
 - Top 12 Customer Loan and Due Payment History
   
-	Daniel Hernandez is the customer with the highest loan amount of $49,980.2 having an on-time payment history, followed by Elizabeth Carter with the loan of $49,985.82 having an on-time payment history and lastly Steve Torres with the loan amount of $49,915.49 having a late payment history.
+Daniel Hernandez is the customer with the highest loan amount of $49,980.2 having an on-time payment history, followed by Elizabeth Carter with the loan of $49,985.82 having an on-time payment history and lastly Steve Torres with the loan amount of $49,915.49 having a late payment history.
 The data shows the correlation between the loan due date and the date the loan was paid.
 
 
@@ -77,13 +77,14 @@ Approved and closed for mortgage has the highest count of 591 and 592 respective
 
 - Top 5 Cities with Highest Approval Rate
   
-  Denver has the highest loan approval rate and loan amount of (0.40 and $3.6 million), followed by Washington (0.42 and $3.1 million), Memphis (0.40 and $3.3 million), New York (0.40 and $3.1 million), and Kansas City (0.40 and $2.9 million). This concentration suggests these regions have a strong demand for loans or effective marketing efforts targeting these areas.
+Denver has the highest loan approval rate and loan amount of (0.40 and $3.6 million), followed by Washington (0.42 and $3.1 million), Memphis (0.40 and $3.3 million), New York (0.40 and $3.1 million), and Kansas City (0.40 and $2.9 million). This concentration suggests these regions have a strong demand for loans or effective marketing efforts targeting these areas.
 
 
 
 ### Loan Analysis Report:
 
 - Credit Utilization by loan status
+  
 Low credit card utilization has the highest loan status while high credit card utilization has the least, which denotes a good financial management.
 
  
@@ -96,7 +97,7 @@ Total loan application of 5000 was received, 1710 was approved, 1630 was rejecte
 
 - Loan Approval Trend across the Months
 
- The highest loan approval was recorded in March (0.367) while the lowest loan approval was recorded in May (0.324), there is a fall in a wave-like pattern indicating a repeating cycle every few months.
+The highest loan approval was recorded in March (0.367) while the lowest loan approval was recorded in May (0.324), there is a fall in a wave-like pattern indicating a repeating cycle every few months.
 
 
 
@@ -108,13 +109,13 @@ A Loan Approval Predictor featuring credit limit, age, loan amount to compute th
 
 - Percentage Credit Utilization of Debt Risk Level
   
-  Very high debt risk level has a total of 53% followed by medium 21.97%, high 16.95% and lastly low 8.0% which implies that over half of the credit users fall into a critical risk category.
+Very high debt risk level has a total of 53% followed by medium 21.97%, high 16.95% and lastly low 8.0% which implies that over half of the credit users fall into a critical risk category.
 
 
 
-  - Percentage credit utilization across cities
+- Percentage credit utilization across cities
 
-	San Jose has the value of 127, San Francisco has the value of 98, Washington has the value of 76, followed by Tucson 75 and lastly Seattle 67.72
+San Jose has the value of 127, San Francisco has the value of 98, Washington has the value of 76, followed by Tucson 75 and lastly Seattle 67.72
 
 ### METRICS OBSERVATION
 
