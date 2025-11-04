@@ -18,12 +18,13 @@ Microsoft Power BI
 
 ### Data Cleaning and Preparation
 At the initial stage of the Data Cleaning and Preparation, I performed the following actions;
-1. Data Loading and Inspection into Ms Excel Power Query
+1. Data Loading and Inspection into Ms Power BI Power Query
 2. Duplicate removal
-3. Handling Missing Data
+3. Removing Leading and Trailing Spaces
 4. Changing Data Type
 5. Spliting and Merging of Columns
 6. Deleting Unneccesary Columns
+7. Helping Columns Created
 
  ### Exploratory Data Analysis
    This Exploratory Data Analysis (EDA) report aims to provide an in-depth examination of The Amazon product review Dataset to understand sales trend, customer engagement and characteristic of the data
