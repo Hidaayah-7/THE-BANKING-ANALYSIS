@@ -1,5 +1,7 @@
 THE-BANKING-ANALYSIS
+
 A data driven view of banking activity and customer’s engagement
+
 ## Project Topic: THE-BANKING-ANALYSIS
 
 ## Project Overview
@@ -120,10 +122,15 @@ San Jose has the value of 127, San Francisco has the value of 98, Washington has
 ### METRICS OBSERVATION
 
 1.	High Loan Volume & Utilization: The bank issued loans totaling $127.51 million this month, reflecting high customer demand. Also, Credit card utilization is directly related to loan approval; customers with lower utilization have better approval chances.
+   
 2.	Late Payments Are High: 49.48% of loan payments were late. This signals potential credit risk and inefficiencies in payment tracking or reminders.
+   
 3.	Gender and Demographic Patterns: Gender distribution is fairly even across all customers, suggesting inclusive banking practices. Also, key cities like Denver, Washington, and Memphis lead in loan approvals, indicating regional opportunities.
+   
 4.	Debt Risk Levels: Over 53% of credit users fall under "very high" debt risk, suggesting the need for credit counseling or revised credit limits.
+   
 5.	Loan Approval Trends: Approval rates fluctuate monthly, peaking in March (36.7%) and dipping in May (32.4%), suggesting seasonal patterns or policy shifts.
+    
 6.	Predictive Features Identified: Age, credit limit, and loan amount were found to be strong predictors of loan approval likelihood.
 
 
@@ -132,10 +139,15 @@ San Jose has the value of 127, San Francisco has the value of 98, Washington has
 ### RECOMMENDATIONS
 
 I recommend that The Data Immersed (TDI) should:
+
 1.	Introduce SMS/email notifications for upcoming due dates to reduce late payments.
+   
 2.	Tighten loan eligibility for customers with high credit utilization or poor repayment history.
+   
 3.	Focus marketing and lending campaigns in high-performing cities such as Denver and Washington to drive further loan growth.
+   
 4.	Offer credit education to customers with very high debt risk to improve repayment behavior and financial literacy.
+   
 5.	Leverage the predictor variables (age, credit limit, loan amount) to enhance loan approval efficiency and fairness.
 
 
