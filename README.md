@@ -82,11 +82,14 @@ Approved and closed for mortgage has the highest count of 591 and 592 respective
 
 - Credit Utilization by loan status
 Low credit card utilization has the highest loan status while high credit card utilization has the least, which denotes a good financial management.
+
  
 
 - Loan Application Status
 
 Total loan application of 5000 was received, 1710 was approved, 1630 was rejected and 1660 was closed.
+
+
 
 - Loan Approval Trend across the Months
 
@@ -94,36 +97,48 @@ Total loan application of 5000 was received, 1710 was approved, 1630 was rejecte
 
 
 
+- Loan Approval Predictor
+  
+A Loan Approval Predictor featuring credit limit, age, loan amount to compute the possible outcome of the customer 
+
+
+
+- Percentage Credit Utilization of Debt Risk Level
+  
+  Very high debt risk level has a total of 53% followed by medium 21.97%, high 16.95% and lastly low 8.0% which implies that over half of the credit users fall into a critical risk category.
+
+
+
+  - Percentage credit utilization across cities
+
+	San Jose has the value of 127, San Francisco has the value of 98, Washington has the value of 76, followed by Tucson 75 and lastly Seattle 67.72
 
 ### METRICS OBSERVATION
 
-Reviews vs. Revenue: Products with the most reviews are not always the top revenue drivers.
+1.	High Loan Volume & Utilization: The bank issued loans totaling $127.51 million this month, reflecting high customer demand. Also, Credit card utilization is directly related to loan approval; customers with lower utilization have better approval chances.
+2.	Late Payments Are High: 49.48% of loan payments were late. This signals potential credit risk and inefficiencies in payment tracking or reminders.
+3.	Gender and Demographic Patterns: Gender distribution is fairly even across all customers, suggesting inclusive banking practices. Also, key cities like Denver, Washington, and Memphis lead in loan approvals, indicating regional opportunities.
+4.	Debt Risk Levels: Over 53% of credit users fall under "very high" debt risk, suggesting the need for credit counseling or revised credit limits.
+5.	Loan Approval Trends: Approval rates fluctuate monthly, peaking in March (36.7%) and dipping in May (32.4%), suggesting seasonal patterns or policy shifts.
+6.	Predictive Features Identified: Age, credit limit, and loan amount were found to be strong predictors of loan approval likelihood.
 
-Smartwatches have high reviews (76) and discount (0.59) but generate lower revenue ($13M) than Smartphones.
 
-
- #### Recommendation:
-
-Amazon should consider improving the perceived value or functionality of Smartwatches to increase conversion from reviews to revenue.
-
-Analyze if lower ASP (average selling price) is holding back revenue growth.
 
 
 ### RECOMMENDATIONS
 
-I recommend that Amazon should:
+I recommend that The Data Immersed (TDI) should:
+1.	Introduce SMS/email notifications for upcoming due dates to reduce late payments.
+2.	Tighten loan eligibility for customers with high credit utilization or poor repayment history.
+3.	Focus marketing and lending campaigns in high-performing cities such as Denver and Washington to drive further loan growth.
+4.	Offer credit education to customers with very high debt risk to improve repayment behavior and financial literacy.
+5.	Leverage the predictor variables (age, credit limit, loan amount) to enhance loan approval efficiency and fairness.
 
-- Revisit discounting strategy for top performers by avoiding over-discounting of items which are already performing well.
 
-- Consider reducing discount rates for high-performing products with inelastic demand.
+ #### Conclusion:
+ 
+This report provides a data-backed overview of customer lending behavior and operational efficiency within the bank. With nearly half of payments made late and a large percentage of customers falling into high debt risk categories, the bank must adopt proactive strategies to manage credit risk and optimize loan approvals. Data insights from Power BI have highlighted key performance metrics and regional strengths, empowering leadership with a clearer understanding of where to act and invest for growth and stability.
 
-- Use top-rated, low-cost products as “customer delight” tools—possibly include them as freebies or loyalty rewards.
-
-- Prioritize Smartphones, Smart TVs, and Smartwatches for ad spend, and target upsell to accessories.
-
-- Highlight 5-star rated products with lower visibility in key homepage placements to boost organic sales.
-
-- Understand customer return rates, repeat purchase behavior, and profit margin by category for deeper insights.
 
 
 
