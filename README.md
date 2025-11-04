@@ -46,13 +46,11 @@ Performance based on key metrics:
 
 ### Dashboard
 
-![Banking Report](https://github.com/Hidaayah-7/THE-BANKING-ANALYSIS/blob/main/midas%20dashboard.png)
-
-
-
-![Banking Report](https://github.com/Hidaayah-7/THE-BANKING-ANALYSIS/blob/main/midas%20dashboard.png)
 <img width="945" height="526" alt="Screenshot 2025-11-04 050944" src="https://github.com/user-attachments/assets/57e1a0ac-7385-46e1-b03f-c6d5d0d3ea09" />
+
+
 <img width="952" height="531" alt="Screenshot 2025-11-04 050706" src="https://github.com/user-attachments/assets/7ce040c8-2273-4a5f-887c-48c2b3b08909" />
+
 
 ### CUSTOMER ANALYSIS REPORT:
 
