@@ -40,13 +40,13 @@ Performance based on key metrics:
 -	Feedback Performance: the total rate of feedback received is -0.03
 
 
-### Analysis:  <a href="https://github.com/Hidaayah-7/DSA-_EXCEL_PROJECT/blob/main/Amazon%20%20study.xlsx">[View Here]</a>
+### Analysis:  <a href="https://github.com/Hidaayah-7/THE-BANKING-ANALYSIS/commit/e5bc36baeb1de03b53eaa3a969768dabf846bcbd">[View Here]</a>
 
 
 
 ### Dashboard
 
-![AMAZON](https://github.com/user-attachments/assets/1fe0da80-90ae-4180-8f93-df04e4f15861)
+![Banking Report](https://github.com/user-attachments/assets/1fe0da80-90ae-4180-8f93-df04e4f15861)
 
 
 
